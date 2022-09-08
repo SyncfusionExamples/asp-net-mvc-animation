@@ -4,7 +4,8 @@ This repository contains the sample that how to display the animation effects in
 
 ## Prerequisites
 
-Visual Studio 2022
+* Visual Studio 2022
+* Visual Studio Code
 
 ## How to run this application?
 
