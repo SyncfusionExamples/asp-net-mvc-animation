@@ -1,6 +1,6 @@
 # How to display the animation effects in ASP.NET MVC controls?
 
-This resoisitory contains the sample that how to display the animation effects in ASP.NET MVC controls.
+This repository contains the sample that how to display the animation effects in ASP.NET MVC controls.
 
 ## Prerequisites
 
